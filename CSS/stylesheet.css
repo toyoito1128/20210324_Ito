@@ -1,0 +1,53 @@
+header {
+  color: rgb(20, 20, 130);
+  font-weight: 600;
+  font-family: "Arial";
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+ul {
+  margin-top: 0px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  list-style: none;
+}
+
+li {
+  padding: 0px 15px 0px 15px;
+  color: rgb(20, 20, 130);
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.aa {
+  max-width: 100%;
+  margin: 150px 0px;
+  position: relative;
+}
+
+.ad {
+  position: absolute;
+  bottom: -700px;
+  left: 0px;
+}
+
+h1 {
+  font-size: 70px;
+  margin-bottom: 0px;
+  font-weight: lighter;
+}
+
+.ab {
+  background-color: rgb(20, 20, 130);
+  width: 1000px;
+  height: 100px;
+}
+
+.picture {
+  position: absolute;
+  right: 0px;
+  top: -50px;
+  width: 50%;
+}
